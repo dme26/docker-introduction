@@ -325,7 +325,7 @@ In your testing shell, create an instance of your "csv-to-scatter-plot" containe
 
 For macOS, Linux or PowerShell:
 ~~~
-$ docker run -v ${PWD}:/data csv-to-scatter-plot
+$ docker run -v $(pwd):/data csv-to-scatter-plot
 ~~~
 {: .language-bash}
 
