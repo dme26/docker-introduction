@@ -20,6 +20,7 @@ how to write new episodes.
 ## Maintainer(s)
 
 * David Eyers
+* Sarah Stevens 
 
 ## Authors
 
