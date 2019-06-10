@@ -154,7 +154,7 @@ CONTAINER ID        IMAGE               COMMAND             CREATED             
 ### Removing images
 
 If you need to reclaim disk space, you can remove image files.
-The images and their corresponding containers can start to take up a lot of disk space of you don't clean them up occasionally.
+The images and their corresponding containers can start to take up a lot of disk space if you don't clean them up occasionally.
 On macOS and Windows, when you uninstall the overall Docker software, it should have the effect of removing all of your image files, although we have not explicitly tested this.
 
 If you want to explicitly remove a container image, you will need to find out details such as the "image ID" or name of the repository. For example say my laptop contained the following image.
