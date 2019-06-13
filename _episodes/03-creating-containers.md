@@ -256,7 +256,7 @@ Deleted: sha256:af0b15c8625bb1938f1d7b17081031f649fd14e6b233688eea3c5483994a66a3
 ~~~
 {: .output}
 
-The reason that there is a few lines output, is that a given image may be created by merging multiple underlying layers.
+The reason that there are a few lines of output, is that a given image may have been formed by merging multiple underlying layers.
 Any layers that are used by multiple Docker images will only be stored once.
 Now the result of `docker images` should no longer include the `hello-world` image.
 
