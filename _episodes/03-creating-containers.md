@@ -264,6 +264,14 @@ Now the result of `docker images` should no longer include the `hello-world` ima
 > There is lots of great documentation at <https://docs.docker.com/>, for example, detailed reference material and tutorials covering the use of the commands mentioned above.
 {: .callout}
 
+### Conclusion
+
+You have now successfully acquired a Docker image file to your computer,
+and have created a Docker container from it.
+While this already effects a reproducible computational environment,
+the image contents are not under your control, so we look at this topic,
+after a quick discussion about the Docker Hub.
+
 
 {% include links.md %}
 
