@@ -193,7 +193,7 @@ CONTAINER ID        IMAGE               COMMAND             CREATED             
 {: .output}
 
 The first version of the command is orthogonal to what we know from the Unix shell but we might want to use the shorter version. For reference, "ps" stands for “Process Status”.
-We should also notice that this command didn't return any containers because our containers all exited and stopped running after they ran.
+We should also notice that this command didn't return any containers because our containers all exited and thus stopped running after they completed their work.
 
 
 ### What containers have run recently?
