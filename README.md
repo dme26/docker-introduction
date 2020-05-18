@@ -2,11 +2,9 @@
 
 This is not an official Carpentries lesson, but the Carpentries lesson template is excellent, so I am using it.
 
-Using Docker within an official Carpentries lesson would require a lot of development and testing.
+This lesson is now within the Software Carpentries incubator: https://github.com/carpentries-incubator/docker-introduction and it is likely that ongoing development should proceed there.
 
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
-
-An introduction to containers (Docker specifically) run initially at ResBaz Dunedin 2019.
+This material was first used to run the session "An introduction to containers (Docker specifically)" at ResBaz Dunedin 2019.
 
 ## Contributing
 
